@@ -13,5 +13,5 @@ npm i cors dotenv express mongoose morgan
 # Required dev-dependencies:
 
 ```
-npm install --save-dev nodemon
+npm install --save-dev nodemon jest supertest
 ```
