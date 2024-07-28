@@ -1,3 +1,7 @@
+# About repository
+
+This repository contains commands for installing the necessary dependencies for a Node.js server project.
+
 # Required packages for basic node-js graphql server:
 
 ```
